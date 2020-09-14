@@ -9,8 +9,8 @@
     - Now open the window and run project
     
     
-    <p align="center">
-        <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=laravel-blade-component" />
-    </p>
+ <p align="center">
+    <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=laravel-blade-component" />
+ </p>
     
 
